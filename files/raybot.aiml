@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HOLA</pattern>
+	<template>Hola!.
+Soy tu asistente personal y te ayudarÃ© a resolver Ã©sta prueba. En cualquier momento puedes escribir AYUDA cuando tengas algunas dudas o recordar comandos.</template>
+</category>
+
+<category>
+    <pattern>AYUDA</pattern>
+    <template>Como tu asistente puedo ir a algÃºn lugar, mirar cosas en un lugar y digitar claves. Los comandos para esas acciones son IR, MIRAR y CLAVE.Â Para comenzar con esta aventura por favor escribe INICIAR.</template>
+</category>
+
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
